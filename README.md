@@ -11,6 +11,8 @@ This project builds a data lakehouse on Azure Databricks using the Lakehouse Med
    - **Metastore-Root**: Created to store managed tables data.
    - **Datazone/Landing Zone (Staging_Area)**: Intended for storing input data files.
 
+https://github.com/MrSachinGoyal/Customer-Invoice-Analytics-Lakehouse-Medallion-Framework/blob/master/architecture.png
+
 ## Access Management:
 - **Access Connector for Azure Databricks**: Establish an Access Connector with managed identity to enable Azure Databricks access to data within the workspace.
 
